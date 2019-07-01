@@ -1,5 +1,10 @@
 # My Coding Journey on Codewars
 
+#### 01/07/2019 - 6 Kyu - Points 254
+1. Iq Test: forEach(), findIndexOf(), split() and arr.length;
+2. toCamelCase: regex, slice(), split() and map();
+3. pigLatin: regex, test(), match(), slice() strings;
+
 #### 28/06/2019 - 6 Kyu - Points 206
 1. Dubstep: regex + replace(), trim() to remove spaces from beginning and end of a string and this regex /\s{2,}/g to remove double spaces inside the sentence;
 2. Counting Duplicates: Object.entries() and {} to store key-value based on letters occurencies inside a string, to count them;
