@@ -4,6 +4,10 @@
 1. Iq Test: forEach(), findIndexOf(), split() and arr.length;
 2. toCamelCase: regex, slice(), split() and map();
 3. pigLatin: regex, test(), match(), slice() strings;
+4. Rgb to Hex Conversion: toString(16), map(), Array.from();
+5. hex to Rgb Conversion: parseInt(value, 16);
+6. Rot13: charCodeAt(), String.fromCharCode();
+7. moveZeros: filter(), concat();
 
 #### 28/06/2019 - 6 Kyu - Points 206
 1. Dubstep: regex + replace(), trim() to remove spaces from beginning and end of a string and this regex /\s{2,}/g to remove double spaces inside the sentence;
